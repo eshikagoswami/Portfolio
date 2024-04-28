@@ -90,10 +90,8 @@ a:hover {
 }
 
 img {
-    max-width: 200px; /* Set the maximum width of the image */
-    height: auto; /* Maintain the aspect ratio */
-    display: block;
-    margin: 0 auto 20px; /* Center the image horizontally and add some bottom margin */
+  width: 6%;
+    float:right;
     border-radius: 5px; /* Add rounded corners */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
